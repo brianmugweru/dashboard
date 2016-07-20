@@ -7,7 +7,6 @@
     "test": "test",
     "prestart": "grunt",
     "start": "node index",
-    "predev": "grunt",
     "dev": "npm install && bower install &&  nodemon index & grunt watch"
   },
   "repository": {
